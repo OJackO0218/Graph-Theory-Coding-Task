@@ -32,7 +32,7 @@ pip install osmnx networkx folium
 
 ## How to Run
 
-### Task 1 — TSP (SPPG Simulator)
+### Task 1 - TSP (SPPG Simulator)
 ```bash
 cd task1_tsp
 python tsp.py
@@ -97,7 +97,7 @@ Map saved -> cpp_map.html
 
 ---
 
-### Task 3 — Knight's Tour
+### Task 3 - Knight's Tour
 ```bash
 cd task3_knights_tour
 python knights_tour.py
@@ -139,10 +139,3 @@ Open directly in any web browser for interactive visualization:
 - `task2_cpp/cpp_visual.html` — Graph illustration of odd-degree nodes & duplicated edges
 - `task3_knights_tour/knights_tour_visual.html` — Fully interactive animated chessboard solver
 
----
-
-## Algorithm Documentation Report
-See [`docs/algorithm_explanation.pdf`](docs/algorithm_explanation.pdf) (or editable [`docs/algorithm_explanation.docx`](docs/algorithm_explanation.docx)) for the complete report explaining the algorithm ideas, implementation details, complexity analysis, and visual representations.
-
-## Algorithm Documentation
-See [`docs/algorithm_explanation.docx`](docs/algorithm_explanation.docx) for the full algorithm explanation and complexity analysis report.
