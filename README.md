@@ -1,4 +1,4 @@
-# Graph Theory Coding Task — Week 6-8
+# Graph Theory Coding Task
 **Institut Teknologi Sepuluh Nopember**
 
 ## Team Identity
@@ -8,11 +8,6 @@
 | 5025251161 | Rizqi Arya Kuskhilbyano    |
 | 5025251009 | Athar Rozy Rasyidan                    |
 | 5025251017 | Wafi Fawwaz Sutisna                    |
-
-# Graph Theory Coding Task — Autonomous Routing & Pathfinding Simulators
-
-Institut Teknologi Sepuluh Nopember (ITS)  
-Department of Informatics — Graph Theory (Week 6–8)
 
 
 ## Project Overview
