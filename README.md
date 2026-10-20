@@ -69,7 +69,7 @@ Map saved -> tsp_map.html
 
 ---
 
-### Task 2 — CPP (DLH Simulator)
+### Task 2 - CPP (DLH Simulator)
 ```bash
 cd task2_cpp
 python cpp.py
