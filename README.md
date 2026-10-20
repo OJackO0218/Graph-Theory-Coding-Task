@@ -114,7 +114,7 @@ Opens `http://127.0.0.1:5003` with board configuration, step-by-step playback, s
 
 ## Sample Test Cases & Verification
 
-### Test Case 1: Knight's Tour — $5 \times 5$ Board from $(2, 2)$
+### Test Case 1: Knight's Tour - $5 \times 5$ Board from $(2, 2)$
 * **Input:**
   ```
   5 5
@@ -131,7 +131,7 @@ Opens `http://127.0.0.1:5003` with board configuration, step-by-step playback, s
   ```
 * **Status:** `Path Found` (Total: 25 steps, runtime < 1 ms).
 
-### Test Case 2: Knight's Tour — $4 \times 4$ Board (Proven Impossibility)
+### Test Case 2: Knight's Tour - $4 \times 4$ Board (Proven Impossibility)
 * **Input:**
   ```
   4 4
@@ -143,7 +143,7 @@ Opens `http://127.0.0.1:5003` with board configuration, step-by-step playback, s
   ```
 * **Theoretical Justification:** By Schwenk's Theorem (1991), no knight's tour exists on boards with dimension $4 \times 4$ because corner and edge squares cannot form a connected Hamiltonian cycle. Pruned in $O(1)$ time.
 
-### Test Case 3: Knight's Tour — Odd-Parity Violation
+### Test Case 3: Knight's Tour - Odd-Parity Violation
 * **Input:**
   ```
   5 5
