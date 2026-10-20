@@ -157,4 +157,8 @@ Opens `http://127.0.0.1:5003` with board configuration, step-by-step playback, s
   ```
 * **Theoretical Justification:** A chessboard is a bipartite graph. With $25$ squares (odd), an open tour must start on the majority color (where $x + y$ is even). Since $(0 + 1) \pmod 2 = 1$, a full tour is mathematically impossible. Pruned in $O(1)$ time.
 
+AI Disclosure
+https://share.gemini.google/1LUOELSfAPQD
+
+
 ---
