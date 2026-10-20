@@ -44,6 +44,8 @@ Unlike naive or standard nearest-neighbor/linear-relaxation implementations, thi
   ```bash
   python -m pip install osmnx networkx numpy scipy flask shapely
   ```
+* Download osm data and put into same directory as used code
+   [Drive](https://drive.google.com/file/d/1YfvmwUSSlz5Fsto9gVAfuJcUpiPXgram/view?usp=sharing)
 
 ---
 
